@@ -294,7 +294,8 @@ namespace SmartDataApp
 
         public static void Main()
         {
-            Console.WriteLine("SMART Logger v0.1");
+            Console.WriteLine("SMART Logger v0.1 - https://github.com/m-ober/SMARTLogger");
+            Console.WriteLine();
 
             int numDisks;
             var diskDict = GetDisks(out numDisks);
